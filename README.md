@@ -17,3 +17,8 @@ This program solves the classic Rat in a Maze problem using Depth First Search (
 Feel free to use and modify the code according to your needs.
 
 > Note: This implementation assumes that the maze is represented as a 2D matrix, and the source is at (0,0), and the destination is at the last cell.
+
+## Input 
+![Screenshot 2023-08-20 004500](https://github.com/abdullahnaveedan/Rat-in-Maze/assets/128359566/1b3c3167-984f-489c-bf3a-fdab16bf1f03)
+## Output 
+![Screenshot 2023-08-20 004523](https://github.com/abdullahnaveedan/Rat-in-Maze/assets/128359566/448f42a5-f723-4e18-90bd-a43436da61af)
